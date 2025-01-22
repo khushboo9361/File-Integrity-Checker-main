@@ -1,14 +1,14 @@
-*Company*: CODETECH IT SOLUTIONS  
+**Company**: CODETECH IT SOLUTIONS  
 
-*Name*  : KHUSHBOO KUMARI
+**Name**  : KHUSHBOO KUMARI
 
-*Id*: CT08HQE
+**Id**: CT08HQE
 
-*Domain*: CYBER SECURITY AND ETHICAL HACKING  
+**Domain**: CYBER SECURITY AND ETHICAL HACKING  
 
-*Batch Duration*: Dec 30th 2024 to Jan 30th, 2025 
+**Batch Duration**: Dec 30th 2024 to Jan 30th, 2025 
 
-*Mentor Name*: NEELA SANTHOSH
+*Mentor Name**: NEELA SANTHOSH
 ---
 
 # File Hash Comparison Tool
